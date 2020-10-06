@@ -1,0 +1,80 @@
+body {
+    background-color: red;
+}
+
+.poto {
+    float: left;
+    width: 0px;
+    margin-right: 0px;
+}
+
+.poto img {
+    width: 343px;
+    height: 340px;
+}
+
+.container {
+    margin-top: 40px;
+    margin-right: 23%;
+    margin-left: 23%;
+}
+
+.kontenAtas{
+    padding-top: 80px;
+    text-align: center;
+    color: white;
+}
+
+.kontenAtas h1{
+    margin-bottom: -10px;
+}
+
+.konten {
+    float: left;
+    margin-left: 380px;
+    margin-right: 10%;
+}
+
+.card {
+    background-color: white;
+    width: 400px;
+    margin-bottom: 15px;
+    display: flex;
+}
+
+.card:hover{
+    opacity: 0.9;
+}
+
+.card .button {
+    color: wheat;
+    background-color: grey;
+    width: 100px;
+    border: 0;
+    border: 0;
+    font-size: 22px;
+}
+
+.card .button:hover{
+    background-color: white;
+}
+.button a {
+    text-decoration: none;
+    color: white;
+}
+
+.button img {
+    padding-top: 50px;
+    padding-left: 20px;
+    width: 20px;
+}
+
+.isi {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.isi p{
+    margin-top: -10px;
+}
+
